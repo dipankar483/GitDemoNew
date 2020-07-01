@@ -9,5 +9,25 @@ public class NewCode {
     	System.out.println("NewTry1");
     	System.out.println("NewTry2");
     }
+    
+public static void test1() {
+    	
+    	System.out.println("NewTry3");
+    	System.out.println("NewTry4");
+    }
+
+
+public static void test2() {
+	
+	System.out.println("NewTry5");
+	System.out.println("NewTry6");
+}
+
+
+	public static void test3() {
+	
+	System.out.println("NewTry7");
+	System.out.println("NewTry8");
+}
 
 }

@@ -26,4 +26,17 @@ public class App
     	System.out.println("Try3");
     	System.out.println("Try4");
     }
+ 
+
+ public static void test2() {
+ 	
+ 	System.out.println("Try51");
+ 	System.out.println("Try61");
+ }
+ 
+ public static void test3() {
+ 	
+ 	System.out.println("Try5");
+ 	System.out.println("Try6");
+ }
 }
