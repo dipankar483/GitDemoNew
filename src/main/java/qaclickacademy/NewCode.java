@@ -30,4 +30,11 @@ public static void test2() {
 	System.out.println("NewTry8");
 }
 
+	public static void test4() {
+		
+		System.out.println("I");
+		System.out.println("Rocky");
+	}
+
+	
 }
